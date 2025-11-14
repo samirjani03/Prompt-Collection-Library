@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Library",
+  "description": "An organized library to store, categorize, and quickly access your prompts. All data is stored locally in your browser.",
+  "requestFramePermissions": []
+}
